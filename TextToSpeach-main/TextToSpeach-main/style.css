@@ -1,0 +1,25 @@
+body {
+    background-color: aliceblue;
+}
+#container {
+  width: 15%;
+  height: auto;
+  padding: 20px;
+  margin: 25px auto;
+  position: relative;
+  border-radius: 25px; 
+}
+h1{
+font: optional;
+size: 22px;
+color: rgb(233, 7, 7) ;
+}
+textarea{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    font-size: 18px;
+    resize: none;
+    outline: 0px;
+    margin-bottom: 20px;
+}
